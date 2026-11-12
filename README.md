@@ -326,7 +326,7 @@ OK
 
 ### Step 1: Clone Repository & Enter Directory
 ```bash
-git clone https://github.com/your-username/FinGuard.git
+git clone https://github.com/silentspirit0011-commits/FinGuard.git
 cd FinGuard
 ```
 
