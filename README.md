@@ -7,6 +7,17 @@
 [![Plotly](https://img.shields.io/badge/Plotly-Interactive-3F4F75.svg?logo=plotly&logoColor=white)](https://plotly.com)
 [![Architecture](https://img.shields.io/badge/Architecture-Modular%20%26%20Decoupled-0284C7.svg)]()
 
+### 🚀 Instant Live Launch in Browser
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/silentspirit0011-commits/FinGuard)
+[![Deploy to Streamlit Cloud](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=silentspirit0011-commits/FinGuard&branch=main&mainModule=app.py)
+
+| Deployment Option | One-Click Action | Details |
+|---|---|---|
+| **GitHub Codespaces (Zero Setup)** | [Launch in Codespaces](https://codespaces.new/silentspirit0011-commits/FinGuard) | Pre-configured `.devcontainer` spins up cloud container and auto-opens app |
+| **Streamlit Community Cloud** | [Deploy & Open App](https://share.streamlit.io/deploy?repository=silentspirit0011-commits/FinGuard&branch=main&mainModule=app.py) | Free instant permanent cloud deployment from this repository |
+| **Local One-Click Launcher** | Double-click `run_finguard.bat` | Starts local server and auto-opens `http://localhost:8501` |
+
 > **Institutional Portfolio Project** developed for the **Morgan Stanley Wealth Management Apprenticeship Program**.  
 > Demonstrates full-stack Python engineering, relational database modeling (SQLite), unsupervised anomaly detection (Scikit-Learn Isolation Forest), relational SQL analytics, and executive financial dashboard design.
 
