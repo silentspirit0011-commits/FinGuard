@@ -1,0 +1,351 @@
+customer_id,customer_name,age,customer_segment,account_type,account_balance
+CUST-1001,Audrey Vanderbilt,58,Corporate Institutional,Corporate Treasury,1896986.37
+CUST-1002,Harrison Blackwood,50,Corporate Institutional,Commercial Escrow,1596981.59
+CUST-1003,Nathaniel Sterling,48,Affluent Wealth,Premium Investment Checking,64520.9
+CUST-1004,Eleanor Sterling,48,High Net Worth,Private Banking Portfolio,886249.72
+CUST-1005,Frederick Vanderbilt,74,Affluent Wealth,High Yield Managed Fund,55146.12
+CUST-1006,Nathaniel Pembroke,62,High Net Worth,Private Banking Portfolio,974423.37
+CUST-1007,Clara Radcliffe,45,Emerging Affluent,Premium Investment Checking,26818.62
+CUST-1008,Adeline Chambers,59,High Net Worth,Wealth Management Account,305893.83
+CUST-1009,Evelyn Kensington,55,Ultra High Net Worth,Private Banking Portfolio,2443752.58
+CUST-1010,Vincent Kingsley,25,High Net Worth,Discretionary Investment Portfolio,397544.77
+CUST-1011,Marcus Harrington,37,Affluent Wealth,Premium Investment Checking,123036.16
+CUST-1012,Benedict Sterling,56,Affluent Wealth,High Yield Managed Fund,141590.46
+CUST-1013,Eleanor Kingsley,72,Affluent Wealth,Premium Investment Checking,99918.45
+CUST-1014,Julian Rothschild,48,Affluent Wealth,Wealth Management Account,178558.61
+CUST-1015,Sophia Kingsley,44,High Net Worth,Wealth Management Account,666413.12
+CUST-1016,Benedict Ashford,53,Affluent Wealth,Wealth Management Account,92631.03
+CUST-1017,Oliver Winslow,43,Affluent Wealth,High Yield Managed Fund,221058.26
+CUST-1018,Clara Mercer,47,Emerging Affluent,High Yield Managed Fund,43609.91
+CUST-1019,Julian Lancaster,51,Affluent Wealth,High Yield Managed Fund,58597.13
+CUST-1020,Genevieve Sinclair,37,Affluent Wealth,Wealth Management Account,277330.1
+CUST-1021,Cordelia Wellington,63,Affluent Wealth,Premium Investment Checking,127927.77
+CUST-1022,Harrison Beaumont,34,Ultra High Net Worth,Trust & Estate Asset,2840306.1
+CUST-1023,Camilla Ashford,33,Ultra High Net Worth,Multi-Asset Wealth,4863130.82
+CUST-1024,Montgomery Hastings,54,Affluent Wealth,Wealth Management Account,243783.21
+CUST-1025,Rosalind Blackwood,62,High Net Worth,Wealth Management Account,225218.63
+CUST-1026,Cordelia Huntington,54,High Net Worth,Private Banking Portfolio,316585.43
+CUST-1027,Adeline Thorne,50,Affluent Wealth,Premium Investment Checking,147169.32
+CUST-1028,Sebastian Covington,47,Affluent Wealth,Premium Investment Checking,117837.26
+CUST-1029,Audrey Blackwood,45,Affluent Wealth,High Yield Managed Fund,120233.63
+CUST-1030,Adeline Lancaster,66,Ultra High Net Worth,Trust & Estate Asset,2942132.37
+CUST-1031,Frederick Fairchild,56,Affluent Wealth,High Yield Managed Fund,68637.66
+CUST-1032,Alexander Barrington,46,Corporate Institutional,Commercial Escrow,2470495.61
+CUST-1033,Nathaniel Whitmore,42,High Net Worth,Private Banking Portfolio,154693.8
+CUST-1034,Evelyn Kensington,60,High Net Worth,Wealth Management Account,843142.21
+CUST-1035,Rosalind Vanderbilt,66,Emerging Affluent,High Yield Managed Fund,65132.57
+CUST-1036,Arthur Covington,65,Corporate Institutional,Commercial Escrow,416600.47
+CUST-1037,Charles Kingsley,40,Affluent Wealth,High Yield Managed Fund,265775.86
+CUST-1038,Archibald Lancaster,47,High Net Worth,Discretionary Investment Portfolio,679803.41
+CUST-1039,Oliver Huntington,45,Emerging Affluent,High Yield Managed Fund,35213.85
+CUST-1040,Alexander Lancaster,49,High Net Worth,Wealth Management Account,426405.82
+CUST-1041,Audrey Winslow,63,Emerging Affluent,Personal Wealth Builder,72668.83
+CUST-1042,Genevieve Rothschild,70,High Net Worth,Private Banking Portfolio,551382.69
+CUST-1043,Sophia Sterling,57,Corporate Institutional,Corporate Treasury,1961766.36
+CUST-1044,Nathaniel Whitmore,42,High Net Worth,Private Banking Portfolio,627085.62
+CUST-1045,Sterling Huntington,51,High Net Worth,Private Banking Portfolio,594322.9
+CUST-1046,Frederick Pembroke,73,Emerging Affluent,High Yield Managed Fund,42790.17
+CUST-1047,Theodore Mercer,53,High Net Worth,Private Banking Portfolio,417202.58
+CUST-1048,Penelope Fairchild,47,Emerging Affluent,Personal Wealth Builder,48057.09
+CUST-1049,Audrey Wellington,48,High Net Worth,Discretionary Investment Portfolio,498825.48
+CUST-1050,Eleanor Thorne,56,Affluent Wealth,High Yield Managed Fund,238887.78
+CUST-1051,Harrison Vanderbilt,40,Ultra High Net Worth,Multi-Asset Wealth,4683639.44
+CUST-1052,Victoria Wellington,44,Ultra High Net Worth,Private Banking Portfolio,4136541.71
+CUST-1053,Evelyn Sterling,64,Affluent Wealth,Wealth Management Account,250918.02
+CUST-1054,Vivian Hastings,56,Affluent Wealth,High Yield Managed Fund,96642.51
+CUST-1055,Jonathan Thorne,53,Affluent Wealth,Wealth Management Account,251860.04
+CUST-1056,Lawrence Hastings,65,Ultra High Net Worth,Multi-Asset Wealth,4532410.85
+CUST-1057,Adeline Winslow,42,Affluent Wealth,Wealth Management Account,106983.79
+CUST-1058,Victoria Barrington,47,Affluent Wealth,High Yield Managed Fund,156776.95
+CUST-1059,Charles Rothschild,56,Affluent Wealth,Wealth Management Account,51738.03
+CUST-1060,Charles Wellington,55,High Net Worth,Private Banking Portfolio,584135.21
+CUST-1061,Dominic Blackwood,32,Affluent Wealth,Wealth Management Account,79966.34
+CUST-1062,Rosalind Wellington,46,Emerging Affluent,Premium Investment Checking,36944.99
+CUST-1063,Dominic Radcliffe,49,Emerging Affluent,High Yield Managed Fund,48721.39
+CUST-1064,Charles Rothschild,57,Affluent Wealth,High Yield Managed Fund,225754.74
+CUST-1065,Alexander Sterling,55,Emerging Affluent,Premium Investment Checking,77559.07
+CUST-1066,Oliver Pembroke,50,Affluent Wealth,Premium Investment Checking,112945.57
+CUST-1067,Camilla Rothschild,25,High Net Worth,Wealth Management Account,392114.42
+CUST-1068,Benedict Ashford,51,Emerging Affluent,Personal Wealth Builder,17397.65
+CUST-1069,Maximilian Pembroke,52,Affluent Wealth,High Yield Managed Fund,62869.69
+CUST-1070,Cordelia Barrington,85,Corporate Institutional,Corporate Treasury,876954.54
+CUST-1071,Theodore Montgomery,49,High Net Worth,Wealth Management Account,273160.64
+CUST-1072,Margaret Harrington,56,Affluent Wealth,High Yield Managed Fund,172363.19
+CUST-1073,Montgomery Rothschild,67,Ultra High Net Worth,Trust & Estate Asset,1569368.95
+CUST-1074,Archibald Kingsley,62,Affluent Wealth,Premium Investment Checking,232054.09
+CUST-1075,Archibald Sterling,71,Emerging Affluent,Premium Investment Checking,56179.43
+CUST-1076,Frederick Sterling,32,Affluent Wealth,Premium Investment Checking,183943.67
+CUST-1077,Camilla Kensington,38,Emerging Affluent,High Yield Managed Fund,17650.38
+CUST-1078,Genevieve Thorne,44,Affluent Wealth,High Yield Managed Fund,197723.24
+CUST-1079,Sophia Pembroke,30,Affluent Wealth,High Yield Managed Fund,211293.2
+CUST-1080,Florence Chambers,52,Emerging Affluent,Premium Investment Checking,26333.82
+CUST-1081,Montgomery Wellington,39,High Net Worth,Wealth Management Account,946220.49
+CUST-1082,Beatrice Fairchild,73,High Net Worth,Wealth Management Account,266892.8
+CUST-1083,Alexander Fairchild,41,Affluent Wealth,High Yield Managed Fund,281173.4
+CUST-1084,Charles Sterling,47,Affluent Wealth,High Yield Managed Fund,269334.84
+CUST-1085,Arthur Blackwood,63,Emerging Affluent,Premium Investment Checking,68119.44
+CUST-1086,Genevieve Winslow,34,High Net Worth,Discretionary Investment Portfolio,621920.69
+CUST-1087,Nathaniel Mercer,29,High Net Worth,Private Banking Portfolio,229137.35
+CUST-1088,Florence Vanderbilt,54,Affluent Wealth,High Yield Managed Fund,274303.94
+CUST-1089,Beatrice Barrington,55,High Net Worth,Wealth Management Account,438175.32
+CUST-1090,Arthur Kensington,62,Emerging Affluent,High Yield Managed Fund,37698.62
+CUST-1091,Cordelia Blackwood,59,High Net Worth,Private Banking Portfolio,904023.46
+CUST-1092,Isabella Mercer,56,High Net Worth,Private Banking Portfolio,812894.21
+CUST-1093,Arthur Covington,42,Affluent Wealth,Premium Investment Checking,90407.18
+CUST-1094,Sophia Davenport,55,Affluent Wealth,Wealth Management Account,274638.55
+CUST-1095,Marcus Vanderbilt,56,High Net Worth,Wealth Management Account,154302.35
+CUST-1096,Arthur Sinclair,41,Corporate Institutional,Commercial Escrow,611818.12
+CUST-1097,Adeline Huntington,78,Ultra High Net Worth,Private Banking Portfolio,3433825.67
+CUST-1098,Charlotte Huntington,58,Ultra High Net Worth,Trust & Estate Asset,1509211.89
+CUST-1099,Margaret Huntington,38,High Net Worth,Wealth Management Account,426589.74
+CUST-1100,Marcus Montgomery,63,Affluent Wealth,Premium Investment Checking,236622.85
+CUST-1101,Vincent Hastings,65,Affluent Wealth,High Yield Managed Fund,214403.22
+CUST-1102,Charles Winslow,57,Corporate Institutional,Institutional Liquidity Fund,1528694.36
+CUST-1103,Eleanor Harrington,48,High Net Worth,Wealth Management Account,375422.01
+CUST-1104,Oliver Radcliffe,41,Corporate Institutional,Institutional Liquidity Fund,798976.7
+CUST-1105,Eleanor Sinclair,50,Corporate Institutional,Institutional Liquidity Fund,2257104.75
+CUST-1106,Lawrence Radcliffe,56,Affluent Wealth,High Yield Managed Fund,207784.66
+CUST-1107,Genevieve Ashford,52,High Net Worth,Private Banking Portfolio,640368.3
+CUST-1108,Charles Prescott,72,Emerging Affluent,Personal Wealth Builder,47013.65
+CUST-1109,Harrison Hastings,60,Corporate Institutional,Institutional Liquidity Fund,881737.82
+CUST-1110,Vincent Montgomery,39,Corporate Institutional,Corporate Treasury,304710.92
+CUST-1111,Harrison Vanderbilt,37,Affluent Wealth,Wealth Management Account,285114.65
+CUST-1112,Evelyn Ashford,58,Emerging Affluent,Personal Wealth Builder,77005.36
+CUST-1113,Vincent Davenport,48,Affluent Wealth,High Yield Managed Fund,53864.15
+CUST-1114,Nathaniel Chambers,61,Emerging Affluent,Premium Investment Checking,75340.71
+CUST-1115,Arthur Sinclair,58,Affluent Wealth,Wealth Management Account,290904.99
+CUST-1116,Marcus Kensington,50,Affluent Wealth,Wealth Management Account,263252.36
+CUST-1117,Montgomery Pembroke,40,Affluent Wealth,High Yield Managed Fund,262784.17
+CUST-1118,Audrey Prescott,30,Emerging Affluent,Premium Investment Checking,35599.93
+CUST-1119,Arthur Rothschild,54,Corporate Institutional,Corporate Treasury,2356348.24
+CUST-1120,Florence Radcliffe,34,Affluent Wealth,High Yield Managed Fund,224007.45
+CUST-1121,Theodore Winslow,39,Affluent Wealth,High Yield Managed Fund,203751.81
+CUST-1122,Evelyn Lancaster,54,High Net Worth,Wealth Management Account,991545.77
+CUST-1123,Beatrice Covington,52,High Net Worth,Discretionary Investment Portfolio,895767.11
+CUST-1124,Montgomery Prescott,35,Affluent Wealth,High Yield Managed Fund,235192.15
+CUST-1125,Sebastian Hastings,67,Affluent Wealth,Wealth Management Account,139872.79
+CUST-1126,Amelia Lancaster,66,Affluent Wealth,Wealth Management Account,123397.96
+CUST-1127,Cordelia Beaumont,59,Ultra High Net Worth,Trust & Estate Asset,4401825.43
+CUST-1128,Isabella Pembroke,59,Corporate Institutional,Commercial Escrow,2304791.24
+CUST-1129,Montgomery Fairchild,59,Affluent Wealth,High Yield Managed Fund,249573.79
+CUST-1130,Isabella Covington,85,Affluent Wealth,High Yield Managed Fund,212490.98
+CUST-1131,Oliver Barrington,65,Ultra High Net Worth,Multi-Asset Wealth,4505024.04
+CUST-1132,Eleanor Chambers,61,Ultra High Net Worth,Private Banking Portfolio,2020978.21
+CUST-1133,Beatrice Wellington,41,Corporate Institutional,Corporate Treasury,1551130.32
+CUST-1134,Eleanor Rothschild,48,High Net Worth,Discretionary Investment Portfolio,180550.93
+CUST-1135,Eleanor Kingsley,84,Corporate Institutional,Institutional Liquidity Fund,894717.82
+CUST-1136,Lawrence Davenport,25,Affluent Wealth,High Yield Managed Fund,197708.32
+CUST-1137,Benedict Ellington,45,Affluent Wealth,Premium Investment Checking,81765.13
+CUST-1138,Alexander Whitmore,67,Emerging Affluent,Premium Investment Checking,48945.81
+CUST-1139,Adeline Wellington,41,High Net Worth,Private Banking Portfolio,679456.9
+CUST-1140,Florence Fairchild,61,Ultra High Net Worth,Private Banking Portfolio,884063.59
+CUST-1141,Audrey Fairchild,52,High Net Worth,Discretionary Investment Portfolio,609539.85
+CUST-1142,Florence Huntington,42,Affluent Wealth,Wealth Management Account,209357.48
+CUST-1143,Eleanor Beaumont,24,Corporate Institutional,Commercial Escrow,2039168.94
+CUST-1144,Adeline Beaumont,54,Emerging Affluent,Personal Wealth Builder,32604.1
+CUST-1145,Oliver Harrington,40,Emerging Affluent,Personal Wealth Builder,16647.8
+CUST-1146,Arthur Whitmore,50,High Net Worth,Private Banking Portfolio,968251.15
+CUST-1147,Clara Whitmore,59,Corporate Institutional,Institutional Liquidity Fund,1170144.12
+CUST-1148,Genevieve Ashford,64,Affluent Wealth,High Yield Managed Fund,93323.58
+CUST-1149,Maximilian Wellington,45,High Net Worth,Discretionary Investment Portfolio,616842.67
+CUST-1150,Nathaniel Sterling,42,High Net Worth,Wealth Management Account,757406.53
+CUST-1151,Benedict Mercer,34,High Net Worth,Wealth Management Account,961635.49
+CUST-1152,Julian Pembroke,64,Affluent Wealth,High Yield Managed Fund,234474.23
+CUST-1153,Rosalind Pembroke,81,Ultra High Net Worth,Trust & Estate Asset,2388200.28
+CUST-1154,Benedict Whitmore,66,Affluent Wealth,High Yield Managed Fund,111932.75
+CUST-1155,Eleanor Kingsley,69,Emerging Affluent,High Yield Managed Fund,15935.58
+CUST-1156,Benedict Ellington,42,Ultra High Net Worth,Trust & Estate Asset,1022326.88
+CUST-1157,Beatrice Whitmore,58,Affluent Wealth,Wealth Management Account,168543.46
+CUST-1158,Nathaniel Harrington,62,Corporate Institutional,Commercial Escrow,470126.86
+CUST-1159,Harrison Ellington,24,High Net Worth,Discretionary Investment Portfolio,297221.59
+CUST-1160,Vivian Vanderbilt,37,Affluent Wealth,High Yield Managed Fund,158462.91
+CUST-1161,Camilla Harrington,74,High Net Worth,Discretionary Investment Portfolio,689829.6
+CUST-1162,Sebastian Lancaster,31,Affluent Wealth,Wealth Management Account,61326.0
+CUST-1163,Margaret Thorne,72,Affluent Wealth,Premium Investment Checking,175784.06
+CUST-1164,Adeline Blackwood,31,Emerging Affluent,Premium Investment Checking,70671.84
+CUST-1165,Victoria Ashford,38,Affluent Wealth,Premium Investment Checking,67642.19
+CUST-1166,Rosalind Chambers,58,High Net Worth,Discretionary Investment Portfolio,696056.39
+CUST-1167,Clara Whitmore,52,Emerging Affluent,Personal Wealth Builder,76114.97
+CUST-1168,Arthur Beaumont,46,Ultra High Net Worth,Private Banking Portfolio,3089633.8
+CUST-1169,Nathaniel Rothschild,74,Emerging Affluent,Personal Wealth Builder,44786.44
+CUST-1170,Harrison Davenport,34,Ultra High Net Worth,Multi-Asset Wealth,2955275.55
+CUST-1171,Marcus Whitmore,49,Ultra High Net Worth,Private Banking Portfolio,4825357.54
+CUST-1172,Theodore Beaumont,60,Ultra High Net Worth,Private Banking Portfolio,4574077.89
+CUST-1173,Genevieve Blackwood,55,Affluent Wealth,Premium Investment Checking,67797.16
+CUST-1174,Jonathan Hastings,43,Affluent Wealth,Wealth Management Account,129743.91
+CUST-1175,Penelope Sinclair,43,Affluent Wealth,High Yield Managed Fund,79541.21
+CUST-1176,Audrey Whitmore,63,Corporate Institutional,Institutional Liquidity Fund,1817658.62
+CUST-1177,Charles Thorne,64,Ultra High Net Worth,Trust & Estate Asset,3807819.7
+CUST-1178,Jonathan Barrington,56,Emerging Affluent,Personal Wealth Builder,67226.26
+CUST-1179,Camilla Mercer,40,High Net Worth,Private Banking Portfolio,788022.54
+CUST-1180,Genevieve Kensington,44,Affluent Wealth,Wealth Management Account,251708.68
+CUST-1181,Frederick Radcliffe,51,High Net Worth,Private Banking Portfolio,466215.37
+CUST-1182,Marcus Winslow,53,Affluent Wealth,High Yield Managed Fund,244103.24
+CUST-1183,Penelope Sterling,59,Affluent Wealth,Wealth Management Account,264603.19
+CUST-1184,Alexander Kingsley,49,Affluent Wealth,Wealth Management Account,157248.51
+CUST-1185,Charles Pembroke,63,Emerging Affluent,High Yield Managed Fund,21703.05
+CUST-1186,Rosalind Mercer,63,High Net Worth,Wealth Management Account,917169.97
+CUST-1187,Florence Davenport,70,High Net Worth,Private Banking Portfolio,422042.16
+CUST-1188,Sterling Fairchild,52,Affluent Wealth,High Yield Managed Fund,273880.81
+CUST-1189,Margaret Ashford,56,High Net Worth,Wealth Management Account,958016.07
+CUST-1190,Sophia Ashford,50,Emerging Affluent,Premium Investment Checking,52273.46
+CUST-1191,Rosalind Thorne,40,Affluent Wealth,Wealth Management Account,123302.69
+CUST-1192,Evelyn Vanderbilt,81,Affluent Wealth,Wealth Management Account,132166.14
+CUST-1193,Amelia Ellington,68,High Net Worth,Discretionary Investment Portfolio,822842.19
+CUST-1194,Evelyn Ashford,63,Emerging Affluent,High Yield Managed Fund,66325.18
+CUST-1195,Clara Huntington,51,Ultra High Net Worth,Private Banking Portfolio,759014.42
+CUST-1196,Sophia Wellington,39,Corporate Institutional,Institutional Liquidity Fund,1486439.99
+CUST-1197,Cordelia Whitmore,65,High Net Worth,Discretionary Investment Portfolio,448277.76
+CUST-1198,Vivian Fairchild,49,Corporate Institutional,Corporate Treasury,513400.79
+CUST-1199,Maximilian Wellington,57,Affluent Wealth,Premium Investment Checking,204554.52
+CUST-1200,Beatrice Barrington,44,Affluent Wealth,Wealth Management Account,75280.67
+CUST-1201,Cordelia Covington,55,High Net Worth,Private Banking Portfolio,211848.56
+CUST-1202,Cordelia Chambers,44,Affluent Wealth,Wealth Management Account,255465.01
+CUST-1203,Clara Montgomery,45,High Net Worth,Wealth Management Account,222112.06
+CUST-1204,Theodore Chambers,55,High Net Worth,Private Banking Portfolio,988643.64
+CUST-1205,Amelia Hastings,31,High Net Worth,Discretionary Investment Portfolio,840879.63
+CUST-1206,Clara Harrington,32,Affluent Wealth,High Yield Managed Fund,286812.14
+CUST-1207,Frederick Montgomery,41,Emerging Affluent,Premium Investment Checking,65514.55
+CUST-1208,Maximilian Wellington,49,Affluent Wealth,Wealth Management Account,189601.06
+CUST-1209,Alexander Mercer,64,Affluent Wealth,Wealth Management Account,77799.37
+CUST-1210,Marcus Rothschild,49,Affluent Wealth,High Yield Managed Fund,173156.28
+CUST-1211,Sebastian Davenport,51,Emerging Affluent,Personal Wealth Builder,18659.71
+CUST-1212,Charles Kingsley,47,Ultra High Net Worth,Trust & Estate Asset,1034680.62
+CUST-1213,Sterling Ellington,56,Affluent Wealth,Premium Investment Checking,236511.22
+CUST-1214,Victoria Ashford,40,Emerging Affluent,Personal Wealth Builder,52918.97
+CUST-1215,Audrey Beaumont,50,Ultra High Net Worth,Trust & Estate Asset,1785704.39
+CUST-1216,Julian Thorne,57,Affluent Wealth,Premium Investment Checking,267149.78
+CUST-1217,Charlotte Blackwood,55,Corporate Institutional,Institutional Liquidity Fund,416042.27
+CUST-1218,Sophia Wellington,52,High Net Worth,Discretionary Investment Portfolio,620776.14
+CUST-1219,Frederick Lancaster,52,Corporate Institutional,Corporate Treasury,1666146.94
+CUST-1220,Florence Prescott,58,Affluent Wealth,Wealth Management Account,223937.17
+CUST-1221,Beatrice Kingsley,82,Affluent Wealth,Wealth Management Account,196078.58
+CUST-1222,Beatrice Thorne,41,Affluent Wealth,High Yield Managed Fund,275289.5
+CUST-1223,Charles Whitmore,82,High Net Worth,Wealth Management Account,385774.01
+CUST-1224,Arthur Barrington,40,Ultra High Net Worth,Private Banking Portfolio,1346545.22
+CUST-1225,Amelia Huntington,24,Ultra High Net Worth,Private Banking Portfolio,3126452.5
+CUST-1226,Lawrence Fairchild,44,Affluent Wealth,Wealth Management Account,69433.66
+CUST-1227,Maximilian Rothschild,56,High Net Worth,Private Banking Portfolio,413098.47
+CUST-1228,Maximilian Mercer,78,Emerging Affluent,Premium Investment Checking,67896.68
+CUST-1229,Harrison Ashford,39,Corporate Institutional,Commercial Escrow,2299586.17
+CUST-1230,Margaret Barrington,58,Corporate Institutional,Corporate Treasury,2100708.8
+CUST-1231,Adeline Kensington,33,Affluent Wealth,High Yield Managed Fund,283182.12
+CUST-1232,Charlotte Ashford,77,Corporate Institutional,Corporate Treasury,2198643.75
+CUST-1233,Victoria Sinclair,68,Corporate Institutional,Commercial Escrow,2471371.29
+CUST-1234,Jonathan Montgomery,45,Affluent Wealth,Wealth Management Account,87604.22
+CUST-1235,Beatrice Mercer,28,Affluent Wealth,Wealth Management Account,292478.6
+CUST-1236,Archibald Huntington,70,Affluent Wealth,Premium Investment Checking,260529.73
+CUST-1237,Frederick Rothschild,50,Emerging Affluent,High Yield Managed Fund,41963.27
+CUST-1238,Montgomery Lancaster,69,High Net Worth,Wealth Management Account,382396.01
+CUST-1239,Harrison Barrington,52,Corporate Institutional,Commercial Escrow,1980221.68
+CUST-1240,Margaret Vanderbilt,52,Emerging Affluent,High Yield Managed Fund,76409.77
+CUST-1241,Clara Thorne,45,Ultra High Net Worth,Private Banking Portfolio,2527448.61
+CUST-1242,Sterling Covington,60,Affluent Wealth,Wealth Management Account,82289.85
+CUST-1243,Amelia Thorne,53,Affluent Wealth,Wealth Management Account,107160.7
+CUST-1244,Sophia Ellington,59,High Net Worth,Discretionary Investment Portfolio,720945.58
+CUST-1245,Montgomery Barrington,30,High Net Worth,Wealth Management Account,246523.95
+CUST-1246,Evelyn Pembroke,69,Affluent Wealth,Wealth Management Account,217893.3
+CUST-1247,Camilla Beaumont,73,Corporate Institutional,Corporate Treasury,1420367.88
+CUST-1248,Rosalind Sterling,53,High Net Worth,Discretionary Investment Portfolio,874354.28
+CUST-1249,Audrey Whitmore,80,Affluent Wealth,High Yield Managed Fund,269163.4
+CUST-1250,Alexander Barrington,76,Emerging Affluent,Personal Wealth Builder,41226.39
+CUST-1251,Lawrence Rothschild,61,High Net Worth,Discretionary Investment Portfolio,748467.8
+CUST-1252,Eleanor Whitmore,71,Affluent Wealth,Wealth Management Account,103241.04
+CUST-1253,Victoria Hastings,66,High Net Worth,Wealth Management Account,483407.44
+CUST-1254,Maximilian Fairchild,27,Emerging Affluent,Personal Wealth Builder,43435.87
+CUST-1255,Audrey Vanderbilt,48,Emerging Affluent,High Yield Managed Fund,48409.32
+CUST-1256,Genevieve Mercer,62,High Net Worth,Private Banking Portfolio,816105.06
+CUST-1257,Alexander Huntington,74,Affluent Wealth,Premium Investment Checking,265590.93
+CUST-1258,Audrey Fairchild,32,Emerging Affluent,High Yield Managed Fund,76718.84
+CUST-1259,Charlotte Ellington,28,Emerging Affluent,Personal Wealth Builder,44843.82
+CUST-1260,Archibald Mercer,51,High Net Worth,Discretionary Investment Portfolio,983027.69
+CUST-1261,Sterling Wellington,24,Affluent Wealth,Premium Investment Checking,208350.21
+CUST-1262,Benedict Hastings,50,Emerging Affluent,High Yield Managed Fund,30609.47
+CUST-1263,Sebastian Kingsley,57,Ultra High Net Worth,Trust & Estate Asset,1318460.38
+CUST-1264,Evelyn Radcliffe,38,Affluent Wealth,Premium Investment Checking,136416.82
+CUST-1265,Maximilian Harrington,51,High Net Worth,Private Banking Portfolio,717424.08
+CUST-1266,Margaret Barrington,65,Affluent Wealth,Premium Investment Checking,93079.97
+CUST-1267,Dominic Huntington,44,Affluent Wealth,Wealth Management Account,94252.62
+CUST-1268,Cordelia Whitmore,40,Affluent Wealth,Wealth Management Account,72175.63
+CUST-1269,Montgomery Kingsley,50,High Net Worth,Private Banking Portfolio,325383.66
+CUST-1270,Genevieve Thorne,37,Affluent Wealth,Wealth Management Account,141067.47
+CUST-1271,Marcus Chambers,79,Corporate Institutional,Commercial Escrow,338452.31
+CUST-1272,Benedict Prescott,52,Emerging Affluent,High Yield Managed Fund,66961.68
+CUST-1273,Charlotte Ellington,42,Emerging Affluent,Premium Investment Checking,71782.61
+CUST-1274,Archibald Thorne,54,High Net Worth,Wealth Management Account,932741.54
+CUST-1275,Dominic Kensington,50,Affluent Wealth,Wealth Management Account,251550.32
+CUST-1276,Alexander Harrington,48,High Net Worth,Private Banking Portfolio,786020.74
+CUST-1277,Charlotte Sterling,44,Affluent Wealth,Wealth Management Account,142618.03
+CUST-1278,Evelyn Lancaster,43,Affluent Wealth,High Yield Managed Fund,171130.75
+CUST-1279,Sophia Kingsley,30,High Net Worth,Private Banking Portfolio,543154.51
+CUST-1280,Nathaniel Prescott,71,Emerging Affluent,High Yield Managed Fund,63585.61
+CUST-1281,Vivian Kingsley,60,Affluent Wealth,High Yield Managed Fund,177919.36
+CUST-1282,Julian Wellington,56,Affluent Wealth,Wealth Management Account,183028.37
+CUST-1283,Harrison Harrington,50,Ultra High Net Worth,Private Banking Portfolio,2896777.7
+CUST-1284,Charles Fairchild,38,High Net Worth,Discretionary Investment Portfolio,356099.93
+CUST-1285,Eleanor Rothschild,41,High Net Worth,Wealth Management Account,167060.52
+CUST-1286,Maximilian Winslow,32,Affluent Wealth,Premium Investment Checking,130519.79
+CUST-1287,Genevieve Covington,42,Affluent Wealth,High Yield Managed Fund,79940.53
+CUST-1288,Amelia Sinclair,36,High Net Worth,Private Banking Portfolio,906948.19
+CUST-1289,Benedict Lancaster,75,Affluent Wealth,Wealth Management Account,247292.81
+CUST-1290,Margaret Blackwood,64,High Net Worth,Private Banking Portfolio,573675.87
+CUST-1291,Arthur Fairchild,53,High Net Worth,Wealth Management Account,648814.95
+CUST-1292,Rosalind Montgomery,39,Affluent Wealth,Premium Investment Checking,236359.87
+CUST-1293,Julian Fairchild,37,Emerging Affluent,High Yield Managed Fund,33445.43
+CUST-1294,Beatrice Davenport,49,Emerging Affluent,High Yield Managed Fund,38600.35
+CUST-1295,Arthur Fairchild,64,Corporate Institutional,Corporate Treasury,1051217.63
+CUST-1296,Benedict Kingsley,78,Affluent Wealth,Premium Investment Checking,296628.81
+CUST-1297,Benedict Thorne,32,Affluent Wealth,Wealth Management Account,75445.62
+CUST-1298,Maximilian Vanderbilt,59,Emerging Affluent,High Yield Managed Fund,24935.84
+CUST-1299,Camilla Ashford,42,Ultra High Net Worth,Multi-Asset Wealth,1339551.61
+CUST-1300,Victoria Lancaster,45,Corporate Institutional,Institutional Liquidity Fund,891464.13
+CUST-1301,Harrison Lancaster,52,Corporate Institutional,Corporate Treasury,1173392.86
+CUST-1302,Theodore Lancaster,40,High Net Worth,Private Banking Portfolio,985021.82
+CUST-1303,Sebastian Davenport,48,Ultra High Net Worth,Multi-Asset Wealth,4862616.95
+CUST-1304,Marcus Montgomery,39,Corporate Institutional,Corporate Treasury,2197391.03
+CUST-1305,Margaret Winslow,43,Corporate Institutional,Corporate Treasury,634497.07
+CUST-1306,Maximilian Chambers,62,Corporate Institutional,Corporate Treasury,1754447.24
+CUST-1307,Theodore Blackwood,53,Corporate Institutional,Institutional Liquidity Fund,1536128.55
+CUST-1308,Florence Covington,62,Emerging Affluent,Premium Investment Checking,33198.64
+CUST-1309,Arthur Beaumont,42,Emerging Affluent,Personal Wealth Builder,36039.15
+CUST-1310,Evelyn Radcliffe,59,High Net Worth,Wealth Management Account,511620.97
+CUST-1311,Charlotte Whitmore,29,Emerging Affluent,High Yield Managed Fund,22464.39
+CUST-1312,Camilla Kingsley,52,Corporate Institutional,Institutional Liquidity Fund,1623895.1
+CUST-1313,Sophia Radcliffe,60,Affluent Wealth,Wealth Management Account,88590.68
+CUST-1314,Nathaniel Kensington,28,Affluent Wealth,High Yield Managed Fund,170285.03
+CUST-1315,Arthur Thorne,42,Affluent Wealth,High Yield Managed Fund,134151.07
+CUST-1316,Penelope Kensington,52,Affluent Wealth,Wealth Management Account,83603.67
+CUST-1317,Eleanor Lancaster,66,Emerging Affluent,High Yield Managed Fund,31551.64
+CUST-1318,Montgomery Lancaster,43,High Net Worth,Wealth Management Account,729277.31
+CUST-1319,Rosalind Mercer,59,High Net Worth,Discretionary Investment Portfolio,550839.76
+CUST-1320,Audrey Blackwood,72,Ultra High Net Worth,Private Banking Portfolio,2353284.11
+CUST-1321,Beatrice Ellington,60,High Net Worth,Wealth Management Account,856026.5
+CUST-1322,Nathaniel Blackwood,49,Affluent Wealth,Wealth Management Account,291256.73
+CUST-1323,Nathaniel Pembroke,57,Affluent Wealth,High Yield Managed Fund,284585.11
+CUST-1324,Charlotte Pembroke,43,Affluent Wealth,Wealth Management Account,95308.27
+CUST-1325,Eleanor Pembroke,53,Emerging Affluent,Personal Wealth Builder,52340.75
+CUST-1326,Marcus Mercer,49,Affluent Wealth,Wealth Management Account,260457.19
+CUST-1327,Dominic Wellington,56,Emerging Affluent,Premium Investment Checking,28105.78
+CUST-1328,Penelope Huntington,46,Emerging Affluent,High Yield Managed Fund,25637.64
+CUST-1329,Vincent Rothschild,57,Affluent Wealth,Premium Investment Checking,216299.31
+CUST-1330,Audrey Kingsley,46,Corporate Institutional,Corporate Treasury,1426897.21
+CUST-1331,Isabella Davenport,64,Affluent Wealth,Premium Investment Checking,148111.28
+CUST-1332,Victoria Radcliffe,47,High Net Worth,Wealth Management Account,844109.52
+CUST-1333,Jonathan Hastings,24,Ultra High Net Worth,Multi-Asset Wealth,2582059.04
+CUST-1334,Isabella Thorne,37,High Net Worth,Wealth Management Account,406171.19
+CUST-1335,Evelyn Whitmore,52,High Net Worth,Private Banking Portfolio,347380.79
+CUST-1336,Alexander Ashford,75,Emerging Affluent,Premium Investment Checking,73472.35
+CUST-1337,Sebastian Huntington,63,High Net Worth,Wealth Management Account,920501.29
+CUST-1338,Audrey Barrington,24,Emerging Affluent,Premium Investment Checking,55575.47
+CUST-1339,Alexander Winslow,31,Corporate Institutional,Corporate Treasury,563362.16
+CUST-1340,Margaret Chambers,68,Ultra High Net Worth,Trust & Estate Asset,4073113.35
+CUST-1341,Victoria Blackwood,60,Corporate Institutional,Commercial Escrow,2261258.31
+CUST-1342,Audrey Harrington,83,Ultra High Net Worth,Trust & Estate Asset,4048687.45
+CUST-1343,Penelope Covington,45,Affluent Wealth,Wealth Management Account,112122.28
+CUST-1344,Archibald Wellington,40,Emerging Affluent,Premium Investment Checking,63356.51
+CUST-1345,Florence Montgomery,53,Affluent Wealth,Premium Investment Checking,240614.67
+CUST-1346,Victoria Ellington,45,Corporate Institutional,Institutional Liquidity Fund,2222722.68
+CUST-1347,Charles Ellington,66,Corporate Institutional,Institutional Liquidity Fund,498921.41
+CUST-1348,Julian Sterling,44,High Net Worth,Wealth Management Account,869484.45
+CUST-1349,Julian Blackwood,48,High Net Worth,Private Banking Portfolio,827701.06
+CUST-1350,Margaret Huntington,38,Corporate Institutional,Institutional Liquidity Fund,587314.21
